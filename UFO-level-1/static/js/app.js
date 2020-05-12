@@ -20,8 +20,6 @@ function appendTable(tableData) {
 appendTable(data);
 
 function buttonClick(){
-   let inputValue = input.property("value");
-   
 }
 //filtersearch button
 let filter_search_button = d3.select("#filter-btn");
